@@ -5,7 +5,7 @@ programa
 	funcao inicio()
 	{
 		cadeia nome
-		inteiro nota1, nota2, nota3, nota4, media
+		real nota1, nota2, nota3, nota4, media
 
 		escreva("Digite o nome do aluno: ")
 		leia(nome)
